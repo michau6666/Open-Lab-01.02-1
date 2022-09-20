@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Open_Lab_01._02
 {
@@ -6,7 +6,7 @@ namespace Open_Lab_01._02
     {
         public int Sum(int a, int b)
         {
-            throw new NotImplementedException();
+            return a + b;
         }
     }
 }
